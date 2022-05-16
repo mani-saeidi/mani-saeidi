@@ -20,6 +20,7 @@
 <h3 align="center">A Software Engineer and an Electrical Engineer Based in Los Angeles</h3>
   </div>
 
+<center>
 - 🔭 I’m currently working on **Codewars**
 
 - 🌱 I’m currently learning **Electrical Engineering**
@@ -31,7 +32,7 @@
 - 📄 Know about my experiences [https://docdro.id/dxDj50W](https://docdro.id/dxDj50W)
 
 - ⚡ Fun fact **I'm an anime lover and a marathon runner.**
-
+</center>
 <br>
 
 <div align="center">
