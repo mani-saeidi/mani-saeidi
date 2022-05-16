@@ -22,17 +22,17 @@
 
 <div align="center">
   <ul>
-    <li>🔭 I’m currently working on **Codewars**</li>
+    <li> 🔭 I’m currently working on **Codewars** </li>
     
-    <li>🌱 I’m currently learning **Electrical Engineering**</li>
+    <li> 🌱 I’m currently learning **Electrical Engineering** </li>
     
-    <li>👯 I’m looking to collaborate on [ML Projects](https://github.com/mani-saeidi/songpredictor)</li>
+    <li> 👯 I’m looking to collaborate on [ML Projects](https://github.com/mani-saeidi/songpredictor) </li>
     
-    <li>📫 How to reach me **maani@engineer.com**</li>
+    <li> 📫 How to reach me **maani@engineer.com** </li>
     
-    <li>📄 Know about my experiences [https://docdro.id/dxDj50W](https://docdro.id/dxDj50W)</li>
+    <li> 📄 Know about my experiences [https://docdro.id/dxDj50W](https://docdro.id/dxDj50W) </li>
     
-    <li>⚡ Fun fact **I'm an anime lover and a marathon runner.**</li>
+    <li> ⚡ Fun fact **I'm an anime lover and a marathon runner.** </li>
     
   </ul>
 </div>
