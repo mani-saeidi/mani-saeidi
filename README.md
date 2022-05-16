@@ -20,12 +20,12 @@
 <h3 align="center">A Software Engineer and an Electrical Engineer Based in Los Angeles</h3>
   </div>
 
-🔭 I’m currently working on **Codewars**
-🌱 I’m currently learning **Electrical Engineering**
-👯 I’m looking to collaborate on [ML Projects](https://github.com/mani-saeidi/songpredictor)
-📫 How to reach me **maani@engineer.com**
-📄 Know about my experiences [https://docdro.id/dxDj50W](https://docdro.id/dxDj50W)
-⚡ Fun fact **I'm an anime lover and a marathon runner.**
+- 🔭 I’m currently working on **Codewars**
+- 🌱 I’m currently learning **Electrical Engineering**
+- 👯 I’m looking to collaborate on [ML Projects](https://github.com/mani-saeidi/songpredictor)
+- 📫 How to reach me **maani@engineer.com**
+- 📄 Know about my experiences [https://docdro.id/dxDj50W](https://docdro.id/dxDj50W)
+- ⚡ Fun fact **I'm an anime lover and a marathon runner.**
 
 
 <br>
