@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🖐🏼, I am Mani</h1>
-<h3 align="center">A Machine Learning Software Engineer Based in Los Angeles</h3>
+<h3 align="center">A Software Engineer and Electrical Engineer Based in Los Angeles</h3>
 
 - 🔭 I’m currently working on **Codewars**
 
