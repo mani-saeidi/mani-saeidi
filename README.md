@@ -17,9 +17,9 @@
 </div>
 
 <div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> \nI am Mani,</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Mani,</h1>
 
-<h3 align="center">a Software Engineer and an Electrical Engineer based in Los Angeles</h3>
+<h3 align="center">A Software Engineer and an Electrical Engineer Based in Los Angeles</h3>
   </div>
 
 - 🔭 I’m currently working on **Codewars**
