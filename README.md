@@ -32,7 +32,7 @@
   
  📄 Know about my experiences [https://docdro.id/dxDj50W](https://docdro.id/dxDj50W)
   
- ⚡ Fun fact **I'm an anime lover and a marathon runner.**
+ ⚡ Fun fact: **I'm an anime lover and a marathon runner.**
 </div>
 
 <br> 
