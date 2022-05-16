@@ -22,7 +22,7 @@
 
 <div align="center">
   <ul>
-    <li align="center">🔭 I’m currently working on **Codewars**</li>
+    <li>🔭 I’m currently working on **Codewars**</li>
     
     <li>🌱 I’m currently learning **Electrical Engineering**</li>
     
