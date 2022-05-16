@@ -1,3 +1,4 @@
+<img src="https://github.com/mani-saeidi/mani-saeidi/blob/main/Mani-Saeidi-Resume.png?raw=true" alt= "mani-saeidi-resume">
 <h1 align="center">Hello 🖐🏼, I am Mani</h1>
 <h3 align="center">A Software Engineer and Electrical Engineer Based in Los Angeles</h3>
 
