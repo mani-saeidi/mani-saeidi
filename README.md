@@ -51,11 +51,10 @@
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mani-saeidi&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
-  <br>
-  <br>
-  <div align="center">
+
+
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mani-saeidi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
 
 <hr>
