@@ -35,7 +35,6 @@
  ⚡ Fun fact: **I'm an anime lover, an animal lover, and a marathon runner.**
 </div>
 
-<br> 
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
