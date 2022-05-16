@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/mani-saeidi/mani-saeidi/blob/main/Mani%20Bitmoji.png?raw=true" width="100"/>
+  <img src="https://github.com/mani-saeidi/mani-saeidi/blob/main/Mani%20Bitmoji.png?raw=true" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/mani-saeidi/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,8 +15,7 @@
 </div>
 
 ---
-<h1 align="center">Hi</h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <h1 align="center"I am Mani,</h1>
 <h3 align="center">a Software Engineer and an Electrical Engineer based in Los Angeles</h3>
 
@@ -53,5 +52,5 @@
 
 ---
 
-<h2 align="center">Resume</h2>
+<h1 align="center">Resume</h1>
 <center><img src="https://github.com/mani-saeidi/mani-saeidi/blob/main/Mani-Saeidi-Resume.png?raw=true" alt= "mani-saeidi-resume"></center>
