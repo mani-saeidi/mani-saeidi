@@ -21,14 +21,14 @@
   </div>
 
 <div align="center">
+
+ 📫 How to reach me: **maani@engineer.com**
   
  🔭 I’m currently working on **Codewars**
   
  🌱 I’m currently learning **Electrical Engineering**
   
  👯 I’m looking to collaborate on [ML Projects](https://github.com/mani-saeidi/songpredictor)
-  
- 📫 How to reach me: **maani@engineer.com**
   
  📄 Know about my experiences: [https://docdro.id/dxDj50W](https://docdro.id/dxDj50W)
   
