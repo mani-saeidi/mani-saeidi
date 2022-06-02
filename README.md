@@ -15,7 +15,7 @@
 
 
 <div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" max-width="30px"/> I am Mani,</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="10px" width="30px"/> I am Mani,</h1>
 
 <h3 align="center">A Software Engineer and an Electrical Engineer Based in Los Angeles</h3>
   </div>
