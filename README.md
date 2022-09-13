@@ -30,7 +30,7 @@
   
  👯 I’m looking to collaborate on [ML Projects](https://github.com/mani-saeidi/songpredictor)
   
- 📄 Know about my experiences: [https://docdro.id/dxDj50W](https://docdro.id/dxDj50W)
+ 📄 Know about my experiences: [https://linktr.ee/manisaeidi](https://linktr.ee/manisaeidi)
   
  ⚡ Fun fact: **I'm an anime lover, an animal lover, and a marathon runner.**
 </div>
